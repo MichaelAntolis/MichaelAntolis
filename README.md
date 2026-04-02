@@ -24,8 +24,5 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelantolis&show_icons=true&locale=en" alt="michaelantolis" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelantolis&" alt="michaelantolis" /></p>
 
