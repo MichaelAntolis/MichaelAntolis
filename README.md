@@ -24,11 +24,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=michaelantolis&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelantolis&layout=compact&theme=dark&hide_border=true" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelantolis&show_icons=true&locale=en&layout=compact" alt="michaelantolis" /></p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelantolis&theme=dark&hide_border=true" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelantolis&show_icons=true&locale=en" alt="michaelantolis" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelantolis&" alt="michaelantolis" /></p>
+
